@@ -1,75 +1,67 @@
-**Privacy Policy**
+**Keepscan — Privacy Policy**
 
-This privacy policy applies to the Dr.Scan app (hereby referred to as "Application") for mobile devices that was created by BAKI UCAN (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
+Last updated: November 16, 2026
 
-**Information Collection and Use**
+This policy explains how Keepscan ("the App"), made by Baki Uçan ("we"), handles information. Questions: ucnllc@gmail.com
 
-The Application collects information when you download and use it. This information may include information such as
+**1. Your documents stay on your device**
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+Scans, PDFs, recognized text, signatures, vault items (such as ID cards, passports and warranties), their fields, expiry dates and reminders are stored on your device. Text recognition, PDF tools, field auto-fill and on-device Apple Intelligence features run on your iPhone or iPad. We do not upload, read or sell your documents, and we never use them for advertising.
 
-The Application does not gather precise information about the location of your mobile device.
+If you turn on iCloud Sync, your documents are stored in your own private iCloud account (Apple CloudKit). We cannot access that data. Apple's privacy policy applies to iCloud.
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+Documents you share or export go only where you choose to send them.
 
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+**2. No account**
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+The App does not require an account and does not ask for your name, email or phone number. If you email support, we receive the email address and the message you send, and use them only to reply.
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+**3. Information collected by third-party services**
 
-**Third Party Access**
+The free version shows ads, and the App uses analytics and purchase services. These services may collect:
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+- Device identifiers, including the advertising identifier (IDFA) only if you allow tracking through Apple's App Tracking Transparency prompt
+- Approximate location derived from the IP address (used by the ad network for ad delivery and fraud prevention)
+- Product interaction data (for example, which features are used, screens viewed, app launches) without document content
+- Purchase history (for subscriptions and restores)
+- Crash and performance data
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+Services used:
+- Google AdMob (ads) — https://policies.google.com/privacy
+- Google Analytics for Firebase (anonymous usage analytics) — https://policies.google.com/privacy
+- RevenueCat (subscription management) — https://www.revenuecat.com/privacy
+- Apple App Store / StoreKit (payments) — https://www.apple.com/legal/privacy/
 
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [RevenueCat](https://www.revenuecat.com/privacy)
+In the European Economic Area, the United Kingdom and Switzerland, you are asked for consent through Google's consent form before personalized ads are shown. You can change your choice at any time in Settings › Privacy Choices. You can change your tracking choice in iOS Settings › Privacy & Security › Tracking. Pro subscribers do not see ads.
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+**4. Notifications, camera, photos, Face ID and calendar**
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+- Camera: used only to scan documents.
+- Photos: used only to import images you select, or to save pages you export.
+- Face ID / passcode: used by iOS to unlock the App or the vault. We never receive biometric data.
+- Notifications: local reminders for expiry and warranty dates, scheduled on your device.
+- Calendar: only if you choose "Add to Calendar", the App adds that event (write-only access).
 
-**Opt-Out Rights**
+**5. Data retention and deletion**
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+Your documents remain on your device (and in your iCloud, if enabled) until you delete them. Deleted documents stay in Recently Deleted for 30 days and are then removed. Deleting the App removes its local data. Analytics and ad data are retained by the providers according to their policies.
 
-**Data Retention Policy**
+**6. Children**
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at bakiucann@gmail.com and they will respond in a reasonable time.
+The App is not directed to children under 13, and we do not knowingly collect personal information from children.
 
-**Children**
+**7. Security**
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+Documents are stored in the App's sandbox, protected by iOS data protection. You can enable Face ID / passcode lock for the App and the vault. Password-protected PDFs you create are encrypted with AES.
 
-The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (bakiucann@gmail.com) so that they will be able to take the necessary actions.
+**8. Your rights**
 
-**Security**
+Depending on where you live, you may have rights to access, correct or delete personal data, or to object to processing. Because we do not hold your documents or an account, most requests can be fulfilled by deleting the App or its data. For data held by Google or RevenueCat, contact us and we will help, or use the providers' own tools.
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+**9. Changes**
 
-**Changes**
+We may update this policy. The latest version is always available at this address.
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+**Contact**
 
-This privacy policy is effective as of 2024-08-07
-
-**Your Consent**
-
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
-
-**Contact Us**
-
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at bakiucann@gmail.com.
-
-* * *
-
-This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+Baki Uçan — ucnllc@gmail.com
